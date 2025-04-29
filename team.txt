@@ -1,0 +1,7 @@
+Team Description - Library Management System Project
+Our team consisted of four members who collaborated effectively to complete the Library Management System project. Each member was assigned specific responsibilities based on their skills and interests to ensure smooth progress and successful completion.
+Team Members and Contributions:
+1. [Vansh Sharma] – Project Manager and Backend Developero Planned the overall project workflow and task division.o Designed the database structure (tables for books, members, transactions, etc.).o Implemented backend functionalities such as adding, issuing, returning books, and managing users.
+2. [Rahul] – Frontend Developero Designed and developed the user interface (UI) for the system.o Created pages for book listings, member registration, issue/return records, and admin dashboard.o Ensured the UI was user-friendly and responsive.
+3. [Anshuman Malik] – Testing and Documentation Leado Created and executed test cases to find bugs and ensure the system’s functionality.o Prepared user manuals and technical documentation for the project.o Ensured the final version was free of critical errors and easy to use.
+4. [Rahul,Anshuman Malik,Vansh sharma] – Integration and Presentationo Integrated frontend and backend components for smooth operation.o Handled deployment and setup of the final project.o Prepared the final project presentation and demonstration for evaluation.
